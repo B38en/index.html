@@ -1,0 +1,244 @@
+body
+{
+    background: url(morze.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+
+}
+.tlo
+{
+    
+    background-color: rgb(14, 103, 177);
+    height: 700px;
+    width: auto;
+    margin: auto;
+}
+.baner
+{
+background-color: green;
+border: 1px solid green;
+color: white;
+width: auto;
+height: 80px;
+text-align: center;
+margin-top: 5px;
+margin-left: 20px;
+margin-right: 12px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+border-radius: 5px;
+box-shadow: 4px 4px 5px  yellowgreen;
+font-weight: bold;
+}
+.menu
+{
+
+background-color:rgb(133, 224, 13);
+color: rgb(31, 27, 216);
+width: auto;
+height: 80px;
+
+margin-left: 20px;
+margin-right: 12px;
+margin-top: 5px;
+border-radius: 5px;
+box-shadow: 4px 4px 5px indianred;
+
+text-align: center;
+}
+.main
+{
+
+background-color: lightgreen;
+color: black ;
+width: auto ;
+height: 500px;
+margin-right: 12px;
+margin-left: 20px;
+margin-top: 5px;
+border-radius: 5px;
+box-shadow: 4px 4px 5px lightblue;
+text-align: center
+}
+.main2
+{
+
+background-color: lightgreen;
+color: black ;
+width: 310px ;
+height: 300px;
+margin: auto;
+margin-top: 40px;
+border-radius: 5px;
+box-shadow: 4px 4px 5px lightblue;
+text-align: center
+}
+.main3
+{
+
+background-color: lightgreen;
+color: black ;
+width: 320px ;
+height: 500px;
+margin: auto;
+margin-top: 5px;
+border-radius: 5px;
+box-shadow: 4px 4px 5px lightblue;
+text-align: center
+}
+.main4
+{
+
+  background-color: lightgreen;
+  color: black ;
+  width: 420px ;
+  height: 450px;
+  margin: auto;
+  margin-top: 5px;
+  border-radius: 5px;
+  box-shadow: 4px 4px 5px lightblue;
+  text-align: center;
+  font-size: medium ;
+  
+  }
+  .main5
+  {
+
+    background-color: lightgreen;
+    color: black ;
+    width: 380px ;
+    height: 340px;
+    margin: auto;
+    margin-top: 5px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 5px lightblue;
+    text-align: center;
+    font-size: medium ;
+    
+    }
+    .main6
+ {
+  background-color: lightgreen;
+  color: black ;
+  width: auto ;
+  height: 520px;
+  margin-right: 12px;
+  margin-left: 20px;
+  margin-top: 5px;
+  border-radius: 5px;
+  box-shadow: 4px 4px 5px lightblue;
+  text-align: center
+ }
+.button 
+{
+  background-color: #008CBA; 
+  border: none;
+  color: white;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  padding: 12px 28px;
+
+}
+.button1
+{
+  background-color: #f44336; 
+  border: none;
+  color: white;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  padding: 12px 28px;
+
+}
+.button2
+{
+  background-color: #891ac9; 
+  border: none;
+  color: white;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  padding: 12px 28px;
+
+}
+
+.button3
+{
+  background-color: #df217a; 
+  border: none;
+  color: white;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  padding: 12px 28px;
+
+}
+
+.button4
+{
+  background-color: #f43665; 
+  border: none;
+  color: white;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  padding: 12px 28px;
+
+}
+.button5
+{
+  background-color: rgb(61, 7, 97); 
+  border: none;
+  color: white;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  padding: 12px 28px;
+
+}.button6
+{
+  background-color: rgb(117, 34, 34); 
+  border: none;
+  color: white;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  padding: 12px 28px;
+
+}
+.button7
+{
+  background-color: rgb(50, 50, 102); 
+  border: none;
+  color: white;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  padding: 12px 28px;
+
+}
+.logo
+{
+  float: left;
+  margin-left: 50px;
+  width: 200px;
+  height: 80px;
+ }
